@@ -13,7 +13,7 @@ You can use it for your projects, Discord bots, or any creative app that needs q
 ## 🧩 Example Usage
 
 ```bash
-GET https://yourdomain.com/api/png
+GET https://yourdomain.com/api/pngs
 ```
 
 ## Response:
@@ -31,8 +31,8 @@ GET https://yourdomain.com/api/png
 - AI or creative applications
 - Profile picture generators
 
-  ## preview website
-  - [Click here](https://youtu.be/MWz9OIlc-Zg)
+## preview website
+- [Click here](https://youtu.be/MWz9OIlc-Zg)
 
 ## 🛠️ Built With
 
